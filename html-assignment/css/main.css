@@ -2,5 +2,41 @@ body{
     
     font-family:  Helvetica, Arial, sans-serif;
     font-size: 18px;
-
 }
+
+h1, footer {
+    background-color: rgba(113, 100, 121, 0.315);
+}
+
+.site-title {
+    color:rgb(100, 68, 100)
+}
+
+#my-image {
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+h3+ul {
+    list-style: square;
+}
+
+h3+ul li:nth-child(odd) {
+    background-color: rgb(179, 179, 179);
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul a {
+    text-decoration: none;
+    background-color: cornsilk;
+    border: 1px solid black;
+    color: black;
+}
+
+nav ul a:hover,
+nav ul a:focus {
+    background-color: rgb(100, 68, 100);
+}
+ 
