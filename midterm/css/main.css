@@ -1,0 +1,11 @@
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    /* Adding background color */
+    background-color: #aad4cf;
+  }
+  h3+form {
+    /* thickness style color */
+    border: 1px solid black;
+  }
