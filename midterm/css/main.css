@@ -20,7 +20,7 @@ body {
   position: absolute;
   top: 30%;
   left: 36%;
-  
+
 }
 
 a:link {
@@ -88,9 +88,9 @@ ul.facts {
 }
 
 /* Selecting element with id value */
- #contact {
-   font-size: 1.7em;
- }
+#contact {
+  font-size: 1.7em;
+}
 
 /* Styling the form */
 .information {
