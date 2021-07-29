@@ -1,0 +1,16 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'MonteCarlo', cursive;
+  font-weight: 400;
+}
+.im-pizza {
+  color: orange;
+  font-size: 7rem;
+}
+.im-wrench {
+  color: cornflowerblue;
+  font-size: 1em;
+}
