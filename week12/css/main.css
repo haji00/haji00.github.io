@@ -14,3 +14,9 @@ h1 {
   color: cornflowerblue;
   font-size: 1em;
 }
+iframe {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  display: block;
+}
