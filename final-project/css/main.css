@@ -279,9 +279,9 @@ header {
 
 /* About Us part */
 #aboutus {
-    background-color: #ffe6ac;
     width: 98%;
     padding: 1%;
+    background-color: #ffe6ac;
 }
 
 #aboutus img {
@@ -289,8 +289,8 @@ header {
 }
 
 #aboutus p {
-    padding-right: 1%;
     padding-bottom: 3%;
+    padding-right: 1%;
 }
 
 /* Our Services part */
@@ -300,8 +300,8 @@ header {
 
 #services {
     display: grid;
-    grid-template-rows: repeat(5, 1fr);
     margin-bottom: 4%;
+    grid-template-rows: repeat(5, 1fr);
 }
 
 .ourservicebox {
