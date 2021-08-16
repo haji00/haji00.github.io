@@ -404,7 +404,6 @@ header {
 /* Hours of Operation table */
 table {
     width: 100%;
-    margin-left: 1%;
 }
 
 th {
@@ -426,7 +425,6 @@ td {
 /* Location Map part */
 #map {
     margin-top: 5%;
-    margin-left: 1%;
 }
 
 #map iframe {
