@@ -145,7 +145,8 @@ a:visited {
 }
 
 
-/* End of CSS Reset Code */
+/* ........End of CSS Reset Code....... */
+/* Colours values used in the layout #c78c06, #ffe6ac, #222 and white */
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -200,7 +201,7 @@ header {
 
 #logo {
     width: 98%;
-    background-color: #c78b07;
+    background-color: #c78c06;
     margin: 0 1% 0 1%;
 }
 
@@ -213,12 +214,12 @@ header {
 
 .nav li a {
     text-decoration: none;
-    color: #c78b07;
+    color: #c78c06;
     width: 100%;
 }
 
 .nav li:first-child a {
-    background-color: #c78b07;
+    background-color: #c78c06;
     padding: 1rem 2rem;
     color: #222;
 }
@@ -241,13 +242,13 @@ header {
     height: 40px;
     padding: 3px;
     background-color: #222;
-    border: 0.5px solid #c78b07;
+    border: 0.5px solid #c78c06;
 }
 
 #searchlogo {
     width: 24px;
     height: 24px;
-    fill: #c78b07;
+    fill: #c78c06;
 }
 
 /* Welcome Part */
@@ -270,7 +271,7 @@ header {
     width: max-content;
     display: inline-block;
     padding: 2%;
-    background-color: #c78b07;
+    background-color: #c78c06;
     align-items: center;
     margin: 2% 2% auto 0;
     color: #222;
@@ -353,7 +354,7 @@ header {
 }
 
 #vision a {
-    border: 1px solid #c78b07;
+    border: 1px solid #c78c06;
 
 }
 
@@ -375,7 +376,7 @@ header {
 
 #team hr {
     width: 95%;
-    border: 0.5px solid #c78b07;
+    border: 0.5px solid #c78c06;
 }
 
 #team h3,
@@ -396,7 +397,7 @@ header {
 
 .formbutton {
     height: 2rem;
-    color: #c78b07;
+    color: #c78c06;
     background-color: #222;
     margin-left: 2%;
 }
@@ -435,11 +436,14 @@ td {
 /* Footer part */
 footer {
     background-color: #222;
-    color: #c78b07;
+    color: #c78c06;
     padding: 1%;
 }
 
 /* ...................Desktop Styles................... */
+/* ---------------------------------
+      Media Query 760px and above
+----------------------------------*/
 @media screen and (min-width: 760px) {
 
     p {
